@@ -133,6 +133,9 @@ delete it to hide the section):
 - `hero.availability` + `hero.showAvailability` — the green-dot badge text
   and whether it shows at all
 - `hero.footerTagline` — line under your name in the footer
+- `hero.currentlyBuilding` — the "Building: …" live ticker chip in the hero.
+  Update it whenever you start something new (great from the GitHub app!);
+  set to `""` to hide the chip
 - `links.*` — github, linkedin, instagram, email (`mailto:…`), resume
 - `sections.<projects|skills|certificates|reviews|contact>` — each section's
   `eyebrow` (small caps label), `title`, `subtitle`
