@@ -51,31 +51,37 @@
   },
   "projects": [
     {
+      "order": 10,
       "title": "Civic",
       "description": "Civic is a mobile-first application designed to facilitate structured civic participation. It provides a unified platform where users can document local problems, engage with community-driven discussions, and connect with others based on shared interests and skills.",
       "githubUrl": "https://github.com/aravindpunyamantula/CIVIC"
     },
     {
+      "order": 20,
       "title": "Cherries Cafe",
       "description": "A high-performance, SEO-optimized landing page and web platform built to elevate the digital presence of Cherries Cafe, a premium vegetarian restaurant. The application serves as a dynamic digital storefront, driving customer acquisition through modern web design, integrated event booking tools, and automated customer retention features.",
       "liveUrl": "https://cherriescafe.in"
     },
     {
+      "order": 30,
       "title": "Glamup Gifts",
       "description": "A highly secure, SEO-optimized e-commerce landing page and digital storefront engineered for a premium gift shop. The platform balances discoverability with robust infrastructure, leveraging modern caching architectures and edge security protocols to deliver rapid load times and mitigate automated threat vectors.",
       "liveUrl": "https://glamupgifts.com"
     },
     {
+      "order": 40,
       "title": "Offline-Support-ChatBot",
       "description": "This project demonstrates how to build an offline AI-powered customer support chatbot using Ollama and the Llama 3.2 (3B) language model. The chatbot answers common e-commerce support queries such as order tracking, returns, payments, and account management. Unlike cloud-based AI services, this system runs entirely locally, ensuring that no customer data leaves the machine. The project also evaluates zero-shot and one-shot prompt engineering techniques.",
       "githubUrl": "https://github.com/aravindpunyamantula/offline-support-chatbot"
     },
     {
+      "order": 50,
       "title": "LLM-Prompt-Router",
       "description": "This project implements a Node.js service that routes user requests to specialized AI personas based on detected intent. Instead of using a single monolithic prompt for every request, the system first classifies the user's intent using an LLM, and then routes the request to an expert persona designed for that specific task.",
       "githubUrl": "https://github.com/aravindpunyamantula/LLM-Prompt-Router"
     },
     {
+      "order": 60,
       "title": "Github Clone",
       "description": "A Flutter-based GitHub clone app that allows users to explore GitHub repositories, view files, and navigate folders, using the GitHub API.",
       "githubUrl": "https://github.com/aravindpunyamantula/Github_Clone"
@@ -83,51 +89,73 @@
   ],
   "certificates": [
     {
+      "order": 10,
       "title": "MongoDB Associate Developer",
       "organisation": "MongoDB",
       "date": "March 2026",
       "link": "https://www.credly.com/badges/e452746d-b6d1-4acf-862b-1eb1eb264528/print",
-      "skills": ["MongoDB", "NoSQL"],
+      "skills": [
+        "MongoDB",
+        "NoSQL"
+      ],
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/mongodb-associate.png"
     },
     {
+      "order": 20,
       "title": "GitHub Foundations",
       "organisation": "GitHub",
       "date": "March 2026",
       "link": "https://learn.microsoft.com/api/credentials/share/en-gb/AravindKumar-3069/3ED3F9AEA1C13502?sharingId=5389773CB19015D",
-      "skills": ["Git", "GitHub"],
+      "skills": [
+        "Git",
+        "GitHub"
+      ],
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/github-foundations.png"
     },
     {
+      "order": 30,
       "title": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
       "organisation": "Oracle",
       "date": "November 2025",
       "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=6D540D14E0EAEB1CE165371859E721C5D79BA0FAFAE4CADCC467236AE2E061EF",
-      "skills": ["AI Foundations", "Machine Learning"],
+      "skills": [
+        "AI Foundations",
+        "Machine Learning"
+      ],
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/oci-ai-foundations.png"
     },
     {
+      "order": 40,
       "title": "Oracle Certified Foundations Associate, Database",
       "organisation": "Oracle",
       "date": "November 2025",
       "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=6D540D14E0EAEB1CE165371859E721C5D79BA0FAFAE4CADCC467236AE2E061EF",
-      "skills": ["SQL", "OracleDB"],
+      "skills": [
+        "SQL",
+        "OracleDB"
+      ],
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/oracle-database.png"
     },
     {
+      "order": 50,
       "title": "Python Essentials 1",
       "organisation": "Cisco",
       "date": "November 2024",
       "link": "https://www.credly.com/badges/8893586c-f9ba-4d73-bbce-446aac25e299/linked_in_profile",
-      "skills": ["Python"],
+      "skills": [
+        "Python"
+      ],
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/python-essentials.png"
     },
     {
+      "order": 60,
       "title": "Java Programming",
       "organisation": "Oracle",
       "date": "October 2024",
       "link": "",
-      "skills": ["Java"],
+      "skills": [
+        "Java"
+      ],
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/java-programming.png"
     }
   ],
@@ -135,28 +163,75 @@
     {
       "title": "Languages",
       "color": "#6366F1",
-      "skills": ["Dart", "JavaScript", "Java", "C", "Python"]
+      "skills": [
+        "Dart",
+        "JavaScript",
+        "Java",
+        "C",
+        "Python"
+      ]
     },
     {
       "title": "Frontend",
       "color": "#06B6D4",
-      "skills": ["Flutter", "React", "HTML", "CSS", "Tailwind CSS", "JavaScript"]
+      "skills": [
+        "Flutter",
+        "React",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "JavaScript"
+      ]
     },
     {
       "title": "Backend",
       "color": "#8B5CF6",
-      "skills": ["Java", "Node.js", "Express", "Redis", "RabbitMQ", "Microservices", "REST APIs", "Firebase"]
+      "skills": [
+        "Java",
+        "Node.js",
+        "Express",
+        "Redis",
+        "RabbitMQ",
+        "Microservices",
+        "REST APIs",
+        "Firebase"
+      ]
     },
     {
       "title": "Database",
       "color": "#10B981",
-      "skills": ["MongoDB", "MySQL", "OracleDB", "NoSQL", "SQL", "Firestore", "PostgreSQL"]
+      "skills": [
+        "MongoDB",
+        "MySQL",
+        "OracleDB",
+        "NoSQL",
+        "SQL",
+        "Firestore",
+        "PostgreSQL"
+      ]
     },
     {
       "title": "Tools",
       "color": "#F59E0B",
-      "skills": ["Git", "GitHub", "Postman", "Docker", "Vercel", "Render", "Cloudflare"]
+      "skills": [
+        "Git",
+        "GitHub",
+        "Postman",
+        "Docker",
+        "Vercel",
+        "Render",
+        "Cloudflare"
+      ]
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "name": "Sample Client",
+      "role": "Owner",
+      "company": "Replace Me Pvt Ltd",
+      "message": "This is a dummy review — open data.json in the portfolio-data repo and replace it with a real client's words. Delete it and the whole Reviews section disappears from the site.",
+      "rating": 5,
+      "avatarUrl": ""
+    }
+  ]
 }
