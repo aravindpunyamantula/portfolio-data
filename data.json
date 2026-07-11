@@ -51,19 +51,19 @@
   },
   "projects": [
     {
-      "order": 10,
+      "order": 30,
       "title": "Civic",
       "description": "Civic is a mobile-first application designed to facilitate structured civic participation. It provides a unified platform where users can document local problems, engage with community-driven discussions, and connect with others based on shared interests and skills.",
       "githubUrl": "https://github.com/aravindpunyamantula/CIVIC"
     },
     {
-      "order": 20,
+      "order": 10,
       "title": "Cherries Cafe",
       "description": "A high-performance, SEO-optimized landing page and web platform built to elevate the digital presence of Cherries Cafe, a premium vegetarian restaurant. The application serves as a dynamic digital storefront, driving customer acquisition through modern web design, integrated event booking tools, and automated customer retention features.",
       "liveUrl": "https://cherriescafe.in"
     },
     {
-      "order": 30,
+      "order": 20,
       "title": "Glamup Gifts",
       "description": "A highly secure, SEO-optimized e-commerce landing page and digital storefront engineered for a premium gift shop. The platform balances discoverability with robust infrastructure, leveraging modern caching architectures and edge security protocols to deliver rapid load times and mitigate automated threat vectors.",
       "liveUrl": "https://glamupgifts.com"
@@ -137,7 +137,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/oracle-database.png"
     },
     {
-      "order": 50,
+      "order": 60,
       "title": "Python Essentials 1",
       "organisation": "Cisco",
       "date": "November 2024",
@@ -148,7 +148,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/aravindpunyamantula/portfolio-data@main/images/certs/python-essentials.png"
     },
     {
-      "order": 60,
+      "order": 50,
       "title": "Java Programming",
       "organisation": "Oracle",
       "date": "October 2024",
@@ -168,7 +168,8 @@
         "JavaScript",
         "Java",
         "C",
-        "Python"
+        "Python",
+        "TypeScript"
       ]
     },
     {
@@ -226,9 +227,9 @@
   ],
   "reviews": [
     {
-      "name": "Sample Client",
+      "name": "Bhanu Punyamantula",
       "role": "Owner",
-      "company": "Replace Me Pvt Ltd",
+      "company": "Glamup Gifts",
       "message": "This is a dummy review — open data.json in the portfolio-data repo and replace it with a real client's words. Delete it and the whole Reviews section disappears from the site.",
       "rating": 5,
       "avatarUrl": ""
