@@ -231,9 +231,17 @@
       "name": "Bhanu Punyamantula",
       "role": "Owner",
       "company": "Glamup Gifts",
-      "message": "This is a dummy review — open data.json in the portfolio-data repo and replace it with a real client's words. Delete it and the whole Reviews section disappears from the site.",
+     "message": "Working with Aravind was one of the best decisions for our business. He developed our website from scratch with a clean, modern design and a strong focus on performance and user experience. Throughout the project, he communicated clearly, understood our requirements, and delivered everything professionally.\n\nSince launching the website, we have seen excellent results:\n• Over 1,000 daily visitors\n• More than 1000 orders within the first 3 months\n• Faster website performance\n• Smooth mobile and desktop experience\n• A simple and efficient admin workflow\n\nWhat impressed me most was that he didn't just build a website—he built a platform that supports business growth. The site is fast, responsive, SEO-friendly, and provides a seamless shopping experience for customers.\n\nWhenever we needed updates or improvements, he responded quickly and implemented them efficiently.\n\nI highly recommend Aravind to anyone looking for a skilled full-stack web developer who can build scalable, high-quality business websites. We look forward to working with him again on future projects.",
       "rating": 5,
       "avatarUrl": ""
-    }
+    },
+    {
+  "name": "Narayana Murthy Cheekala",
+  "role": "Owner",
+  "company": "Cherries Cafe",
+  "message": "Working with Aravind was an excellent experience from start to finish. He developed both our website and Android application with a strong focus on quality, performance, and user experience.\n\nHe took the time to understand our restaurant's needs and transformed our ideas into a modern digital platform that truly represents our brand. The website is fast, responsive, SEO-friendly, and makes it easy for customers to explore our menu, learn about our services, and connect with us. The Android app provides a smooth and intuitive experience, making it convenient for our customers to interact with our business.\n\nWhat stood out most was his attention to detail, technical expertise, and willingness to improve every aspect of the product. He was responsive throughout the project, communicated clearly, and delivered updates quickly whenever we requested changes.\n\nSince launching our digital platform, we have received positive feedback from customers about its professional design, speed, and ease of use. The website and app have significantly strengthened our online presence and helped us connect with more customers.\n\nI highly recommend Aravind to any business looking for a dependable Full Stack and Flutter developer who can deliver modern, scalable, and high-quality digital solutions. We look forward to working with him again on future projects.",
+  "rating": 5,
+  "avatarUrl": ""
+}
   ]
 }
